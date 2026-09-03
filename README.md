@@ -1,2 +1,3 @@
 # GE-4120-ELECTIVES-4
-GE 4120 21st Century IT Skills
+Name: Azsher Vonn N. Osorio
+This are my activities posted.
