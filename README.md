@@ -9,6 +9,7 @@ Your friendly neighborhood hello has arrived! This repository contains all my ac
 - **Activity 1:** Presentation Design Principles
 - **Activity 2:** Personal Branding
 - **Activity 3:** Social Media Infographics & Project Documentation
+- **Activity 4:** - Google Sheets Presentation
 
 ---
 *Thank you for checking out my repository!* *See you soon!👋*
