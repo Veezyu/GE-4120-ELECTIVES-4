@@ -1,95 +1,78 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:140B24,30:6A1B73,65:FF4F87,100:FFB347&height=220&section=header&text=VICE%20CITY&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=THE%20AZSHER%20VONN%20EXPERIENCE&descAlignY=60&descSize=17" width="100%"/>
+<img src="./assets/profile.jpg" width="200" style="border-radius: 50%;" alt="Azsher Vonn N. Osorio"/>
 
 # 🌴 AZSHER VONN N. OSORIO
 
-### `4TH YEAR BSN STUDENT` • `DIGITAL CREATOR` • `ATENEO RESIDENT`
+### 4TH YEAR • BACHELOR OF SCIENCE IN NURSING
 
-*"Welcome to my world. Every project is another mission."*
-
-[![GitHub](https://img.shields.io/badge/GITHUB-VEEZYU-ff4f87?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Veezyu)
-[![Repository](https://img.shields.io/badge/REPOSITORY-GE--4120--ELECTIVES--4-8e44ad?style=for-the-badge)](https://github.com/Veezyu/GE-4120-ELECTIVES-4)
+*“Different interests, different adventures, one continuous journey.”*
 
 </div>
 
 ---
 
-## 🎬 THE INTRODUCTION
+## 🎬 ABOUT ME
 
-Hey there, welcome to my digital playground!
+Hey there! I'm **Azsher Vonn N. Osorio**, a 4th Year Bachelor of Science in Nursing student at **Ateneo de Davao University**.
 
-I'm **Azsher Vonn N. Osorio**, a 4th Year Bachelor of Science in Nursing student. This repository serves as my personal collection of laboratory activities, academic projects, presentations, and creative works.
+Outside academics, I'm someone who enjoys exploring different interests and experiences. I'm passionate about gaming, running, and going to the gym. I also enjoy playing musical instruments, particularly the **guitar and piano**.
 
-Consider this my own little version of Vice City, where creativity, technology, and learning collide.
-
-> 🌆 *Different missions. Different challenges. One journey.*
-
----
-
-## 🎮 MISSION SELECT
-
-**Select a mission below to explore my completed activities!**
+When it comes to gaming, some of my all-time favorites are:
 
 <div align="center">
 
-| MISSION | ACTIVITY | STATUS |
-|:---:|---|:---:|
-| 🏙️ 01 | [**Presentation Design Principles**](https://github.com/Veezyu/GE-4120-ELECTIVES-4/tree/main/Activity%201%20-%20Presentation%20Design%20Principles) | ✅ COMPLETED |
-| 🎭 02 | [**Personal Branding**](https://github.com/Veezyu/GE-4120-ELECTIVES-4/tree/main/Activity%202%20-%20Personal%20Branding) | ✅ COMPLETED |
-| 📱 03 | [**Social Media Infographics & Documentation**](https://github.com/Veezyu/GE-4120-ELECTIVES-4/tree/main/Activity%203%20-%20Social%20Media%20Infographics%20%26%20Documentation) | ✅ COMPLETED |
-| 📊 04 | [**Google Sheets Presentation**](https://github.com/Veezyu/GE-4120-ELECTIVES-4/tree/main/Activity%204%20-%20Google%20Sheets%20Presentation) | ✅ COMPLETED |
-| 🤖 05 | [**AI Tools**](https://github.com/Veezyu/GE-4120-ELECTIVES-4/tree/main/Activity%205%20-%20AI%20Tools) | ✅ COMPLETED |
-| 🌐 06 | [**Making a Website**](https://github.com/Veezyu/GE-4120-ELECTIVES-4/tree/main/Activity%206%20-%20Making%20a%20Website) | ✅ COMPLETED |
-| 📄 07 | [**Resume Generating**](https://github.com/Veezyu/GE-4120-ELECTIVES-4/tree/main/Activity%207%20-%20Resume%20Generating) | ✅ COMPLETED |
+| 🎮 GAME | 🎯 |
+|:---|:---:|
+| Red Dead Redemption 2 | 🤠 |
+| The Last of Us | 🧟 |
+| Resident Evil | 🧟‍♂️ |
+
+</div>
+
+Whether it's exploring vast open worlds, experiencing compelling stories, improving my physical fitness, or learning something new, I always enjoy challenging myself and discovering new things.
+
+---
+
+## 💻 SKILLS & DIGITAL EXPERIENCE
+
+Throughout my learning journey, I've become more familiar with navigating the digital world and using technology to make academic tasks and everyday activities easier and more efficient.
+
+Here are some of the skills I've developed:
+
+- 🌐 **Digital Literacy** – Navigating online platforms, finding information, and understanding digital resources.
+- 🎨 **Creative Design** – Creating presentations, visual materials, and social media infographics.
+- 📊 **Productivity Tools** – Using Google Sheets and other digital applications to organize information and improve efficiency.
+- 🤖 **AI Tool Utilization** – Exploring AI tools to support learning, brainstorming, research, and productivity.
+- 📑 **Digital Documentation** – Organizing files, documenting projects, and presenting information effectively.
+- 💡 **Problem-Solving & Adaptability** – Learning to adapt to new technologies and finding creative ways to accomplish tasks.
+- 🌍 **Digital Communication** – Using online platforms to share ideas, collaborate, and communicate information.
+
+I believe that learning these skills is increasingly important as we continue advancing toward a more technology-driven world. Technology doesn't just make things easier; it also opens opportunities to become more creative, productive, and adaptable.
+
+---
+
+## 🎯 BEYOND THE SCREEN
+
+<div align="center">
+
+| INTERESTS | WHAT I ENJOY |
+|:---:|---|
+| 🎮 Gaming | Exploring immersive worlds and story-driven games |
+| 🏃 Running | Staying active and challenging my endurance |
+| 🏋️ Gym | Building strength and improving myself |
+| 🎸 Guitar | Enjoying music and learning through playing |
+| 🎹 Piano | Exploring melodies and musical creativity |
 
 </div>
 
 ---
 
-## 📂 THE GAME FILES
-
-```text
-📁 GE-4120-ELECTIVES-4
-│
-├── 🎨 Activity 1 - Presentation Design Principles
-├── 👤 Activity 2 - Personal Branding
-├── 📱 Activity 3 - Social Media Infographics & Documentation
-├── 📊 Activity 4 - Google Sheets Presentation
-├── 🤖 Activity 5 - AI Tools
-├── 🌐 Activity 6 - Making a Website
-├── 📄 Activity 7 - Resume Generating
-│
-└── 📜 README.md
-```
-
----
-
-## 🌆 LIFE IN VICE CITY
-
 <div align="center">
 
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 🌆 MORE THAN JUST A STUDENT, ALWAYS A WORK IN PROGRESS.
 
-*"Make your own luck."*
-
-</div>
-
----
-
-## 🏁 END OF TRANSMISSION
-
-<div align="center">
-
-**THANK YOU FOR VISITING MY REPOSITORY!**
-
-The journey doesn't end here. There are still more missions to complete.
-
-🌴 Stay creative. Keep exploring. Make every mission count.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,35:FF4F87,70:6A1B73,100:140B24&height=130&section=footer" width="100%"/>
-
-**© 2026 AZSHER VONN N. OSORIO**
+*Stay curious. Keep learning. Enjoy the journey.*
 
 </div>
