@@ -1,78 +1,134 @@
 
+
 <div align="center">
 
-<img src="./assets/profile.jpg" width="200" style="border-radius: 50%;" alt="Azsher Vonn N. Osorio"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:140B24,30:6A1B73,65:FF4F87,100:FFB347&height=220&section=header&text=VICE%20CITY&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=THE%20AZSHER%20VONN%20EXPERIENCE&descAlignY=60&descSize=17" width="100%"/>
+
+<img src="./assets/profile.jpg" width="190" alt="Azsher Vonn N. Osorio"/>
 
 # 🌴 AZSHER VONN N. OSORIO
 
-### 4TH YEAR • BACHELOR OF SCIENCE IN NURSING
+### `4TH YEAR BSN STUDENT` • `DIGITAL CREATOR` • `VICE CITY RESIDENT`
 
-*“Different interests, different adventures, one continuous journey.”*
+*"Welcome to my world. Every project is another mission."*
 
-</div>
-
----
-
-## 🎬 ABOUT ME
-
-Hey there! I'm **Azsher Vonn N. Osorio**, a 4th Year Bachelor of Science in Nursing student at **Ateneo de Davao University**.
-
-Outside academics, I'm someone who enjoys exploring different interests and experiences. I'm passionate about gaming, running, and going to the gym. I also enjoy playing musical instruments, particularly the **guitar and piano**.
-
-When it comes to gaming, some of my all-time favorites are:
-
-<div align="center">
-
-| 🎮 GAME | 🎯 |
-|:---|:---:|
-| Red Dead Redemption 2 | 🤠 |
-| The Last of Us | 🧟 |
-| Resident Evil | 🧟‍♂️ |
-
-</div>
-
-Whether it's exploring vast open worlds, experiencing compelling stories, improving my physical fitness, or learning something new, I always enjoy challenging myself and discovering new things.
-
----
-
-## 💻 SKILLS & DIGITAL EXPERIENCE
-
-Throughout my learning journey, I've become more familiar with navigating the digital world and using technology to make academic tasks and everyday activities easier and more efficient.
-
-Here are some of the skills I've developed:
-
-- 🌐 **Digital Literacy** – Navigating online platforms, finding information, and understanding digital resources.
-- 🎨 **Creative Design** – Creating presentations, visual materials, and social media infographics.
-- 📊 **Productivity Tools** – Using Google Sheets and other digital applications to organize information and improve efficiency.
-- 🤖 **AI Tool Utilization** – Exploring AI tools to support learning, brainstorming, research, and productivity.
-- 📑 **Digital Documentation** – Organizing files, documenting projects, and presenting information effectively.
-- 💡 **Problem-Solving & Adaptability** – Learning to adapt to new technologies and finding creative ways to accomplish tasks.
-- 🌍 **Digital Communication** – Using online platforms to share ideas, collaborate, and communicate information.
-
-I believe that learning these skills is increasingly important as we continue advancing toward a more technology-driven world. Technology doesn't just make things easier; it also opens opportunities to become more creative, productive, and adaptable.
-
----
-
-## 🎯 BEYOND THE SCREEN
-
-<div align="center">
-
-| INTERESTS | WHAT I ENJOY |
-|:---:|---|
-| 🎮 Gaming | Exploring immersive worlds and story-driven games |
-| 🏃 Running | Staying active and challenging my endurance |
-| 🏋️ Gym | Building strength and improving myself |
-| 🎸 Guitar | Enjoying music and learning through playing |
-| 🎹 Piano | Exploring melodies and musical creativity |
+[![GitHub](https://img.shields.io/badge/GITHUB-VEEZYU-ff4f87?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Veezyu)
+[![Repository](https://img.shields.io/badge/REPOSITORY-GE--4120--ELECTIVES--4-8e44ad?style=for-the-badge)](https://github.com/Veezyu/GE-4120-ELECTIVES-4)
 
 </div>
 
 ---
 
+## 🎬 THE INTRODUCTION
+
+Hey there, welcome to my digital playground!
+
+I'm **Azsher Vonn N. Osorio**, a 4th Year Bachelor of Science in Nursing student at **Ateneo de Davao University**.
+
+Outside academics, I'm someone who enjoys exploring different interests and experiences. I love gaming, running, and going to the gym. I also have a passion for music and enjoy playing musical instruments, particularly the **guitar and piano**.
+
+When it comes to gaming, I'm especially fond of immersive, story-driven games. Some of my all-time favorites include:
+
+- 🤠 **Red Dead Redemption 2** – An incredible open-world experience with a memorable story.
+- 🧟 **The Last of Us** – A gripping narrative with unforgettable characters.
+- 🧟‍♂️ **Resident Evil** – Survival horror, exploration, and thrilling gameplay.
+
+Whether I'm exploring virtual worlds, challenging myself physically, or learning something new, I always enjoy experiences that allow me to grow and discover different things.
+
+Consider this my own little version of Vice City, where creativity, technology, and learning collide.
+
+> 🌆 *Different missions. Different challenges. One journey.*
+
+---
+
+## 💻 SKILLS & TOOLS
+
+Throughout this course, I've learned how to navigate the digital world more effectively and make better use of technology in my everyday academic activities.
+
+As technology continues to advance, I've discovered how digital tools can make tasks easier, encourage creativity, and open opportunities for learning and productivity.
+
+Here are some of the skills and tools I've developed:
+
+| SKILLS | DESCRIPTION |
+|:---|:---|
+| 🌐 **Digital Literacy** | Navigating online platforms, exploring digital resources, and finding relevant information. |
+| 🎨 **Creative Design** | Creating visually appealing presentations, infographics, and other digital materials. |
+| 📊 **Google Workspace** | Using Google Sheets and other productivity tools to organize information and complete tasks efficiently. |
+| 🤖 **AI Tools** | Exploring artificial intelligence tools for brainstorming, research assistance, and improving productivity. |
+| 📑 **Digital Documentation** | Organizing files, documenting projects, and presenting information effectively. |
+| 💡 **Problem-Solving** | Finding creative solutions and using technology to accomplish tasks more efficiently. |
+| 🌍 **Digital Communication** | Using online platforms to communicate, share information, and collaborate. |
+| 💻 **Web Development Basics** | Understanding basic website creation, structure, and presentation through HTML and digital platforms. |
+
+I believe that developing these skills is important in a world that is becoming increasingly technology-driven. Learning to use these tools has made my academic life more convenient while allowing me to become more creative, resourceful, and adaptable.
+
+---
+
+## 🎮 MISSION SELECT
+
+**Select a mission below to explore my completed activities!**
+
 <div align="center">
 
-### 🌆 MORE THAN JUST A STUDENT, ALWAYS A WORK IN PROGRESS.
+| MISSION | ACTIVITY | STATUS |
+|:---:|---|:---:|
+| 🏙️ 01 | [**Presentation Design Principles**](https://github.com/Veezyu/GE-4120-ELECTIVES-4/tree/main/Activity%201%20-%20Presentation%20Design%20Principles) | ✅ COMPLETED |
+| 🎭 02 | [**Personal Branding**](https://github.com/Veezyu/GE-4120-ELECTIVES-4/tree/main/Activity%202%20-%20Personal%20Branding) | ✅ COMPLETED |
+| 📱 03 | [**Social Media Infographics & Documentation**](https://github.com/Veezyu/GE-4120-ELECTIVES-4/tree/main/Activity%203%20-%20Social%20Media%20Infographics%20%26%20Documentation) | ✅ COMPLETED |
+| 📊 04 | [**Google Sheets Presentation**](https://github.com/Veezyu/GE-4120-ELECTIVES-4/tree/main/Activity%204%20-%20Google%20Sheets%20Presentation) | ✅ COMPLETED |
+| 🤖 05 | [**AI Tools**](https://github.com/Veezyu/GE-4120-ELECTIVES-4/tree/main/Activity%205%20-%20AI%20Tools) | ✅ COMPLETED |
+| 🌐 06 | [**Making a Website**](https://github.com/Veezyu/GE-4120-ELECTIVES-4/tree/main/Activity%206%20-%20Making%20a%20Website) | ✅ COMPLETED |
+| 📄 07 | [**Resume Generating**](https://github.com/Veezyu/GE-4120-ELECTIVES-4/tree/main/Activity%207%20-%20Resume%20Generating) | ✅ COMPLETED |
 
-*Stay curious. Keep learning. Enjoy the journey.*
+</div>
+
+---
+
+## 📂 THE GAME FILES
+
+```text
+📁 GE-4120-ELECTIVES-4
+│
+├── 📁 assets
+│   └── 🖼️ profile.jpg
+│
+├── 🎨 Activity 1 - Presentation Design Principles
+├── 👤 Activity 2 - Personal Branding
+├── 📱 Activity 3 - Social Media Infographics & Documentation
+├── 📊 Activity 4 - Google Sheets Presentation
+├── 🤖 Activity 5 - AI Tools
+├── 🌐 Activity 6 - Making a Website
+├── 📄 Activity 7 - Resume Generating
+│
+└── 📜 README.md
+```
+
+---
+
+## 🌆 LIFE IN VICE CITY
+
+<div align="center">
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+*"Make your own luck."*
+
+</div>
+
+---
+
+## 🏁 END OF TRANSMISSION
+
+<div align="center">
+
+**THANK YOU FOR VISITING MY REPOSITORY!**
+
+The journey doesn't end here. There are still more missions to complete.
+
+🌴 Stay creative. Keep exploring. Make every mission count.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,35:FF4F87,70:6A1B73,100:140B24&height=130&section=footer" width="100%"/>
+
+**© 2026 AZSHER VONN N. OSORIO**
 
 </div>
