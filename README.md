@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:140B24,30:6A1B73,65:FF4F87,100:FFB347&height=220&section=header&text=VICE%20CITY&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=THE%20AZSHER%20VONN%20EXPERIENCE&descAlignY=60&descSize=17" width="100%"/>
 
-<img src="./assets/profile.jpg"
+<img src="./‎profile/Profile Photo
      width="190"
      alt="Azsher Vonn N. Osorio"/>
 
