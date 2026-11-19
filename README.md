@@ -5,7 +5,7 @@
 
 # 🌴 AZSHER VONN N. OSORIO
 
-### `4TH YEAR BSN STUDENT` • `DIGITAL CREATOR` • `VICE CITY RESIDENT`
+### `4TH YEAR BSN STUDENT` • `DIGITAL CREATOR` • `ATENEO RESIDENT`
 
 *"Welcome to my world. Every project is another mission."*
 
